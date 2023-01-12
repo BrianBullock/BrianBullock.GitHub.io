@@ -64,12 +64,13 @@ p{
   justify-content: flex-start;
   column-gap: 2em;
   flex-wrap: wrap;
-  padding-bottom: 1.5em;}
+  padding-bottom: .5em;}
 #socials--list{
   display: flex;
   justify-content: flex-start;
   column-gap: 2em;
-  flex-wrap: wrap;}
+  flex-wrap: wrap;
+  padding-bottom: .5em;}
 #socials--list a{
   font-size: 0.9em;
   color: var(--mainTextColor);
